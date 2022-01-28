@@ -36,7 +36,7 @@ Software Developer with strong background in test automation, with 13+ years of 
 
 ## Personal Projects & Other Information
 - **Personal Projects**:
-  - Development of an event-driven, animated UI component library for games named JAO (Json Animated Objects) using Java: https://github.com/danodic-dev/jao-java
+  - Development of an event-driven, animated UI component library for games named JAO (Json Animated Objects) using Java: https://github.com/danodic-dev/jao-java / https://sonarcloud.io/project/overview?id=danodic_jao-java
   - Development of a simple library for generation and management of live-updateable numbers, useful for game development: https://github.com/danodic-dev/live-numbers
   - Development of a game using LibGDX, Jav, JAO and Live Numbers: https://youtu.be/O273cIv4lPc
 - **Other Information**:
