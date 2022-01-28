@@ -48,7 +48,7 @@ Software Developer with strong background in test automation, with 13+ years of 
 
 
 ## Experience
-*It is a long list, you may not need to scroll all the way to the bottom -- there is nothing really interesting at the bottom. ;-)*
+*It is a long list, you may not need to scroll all the way to the bottom -- there is nothing really interesting there. ;-)*
 
 ### August 2021 - Current | Software Developer @ E-Core
 Switched roles from QA-focused positions to a full time backend developer position. Environment involves a large team distributed across two time zones and Angile methodologies/ceremonies. Main objective of the project is to help migrating a set of Java on-premises services/applications in order to adequate them for deployment in GCP
